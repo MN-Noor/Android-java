@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">practic2</string>
+    <string name="name">Name:</string>
+    <string name="email">Email Address</string>
+    <string name="login">Login:</string>
+    <string name="signup">Signup</string>
+    <string name="Already">Already have an account</string>
+    <string name="dont">Don\'t have an account</string>
+</resources>
